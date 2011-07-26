@@ -1,0 +1,7 @@
+{
+"shell-version": ["3.0"], 
+"uuid": "close.button@hnrk.go.to", 
+"name": "Close button", 
+"description": "Add a close window button to topbar.",
+"url": "http://hnrk.go.to/"
+}
